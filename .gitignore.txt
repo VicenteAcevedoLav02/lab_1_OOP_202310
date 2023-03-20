@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this_will_be_ignored.txt
-=======
-this_will_be_ignored.txt
->>>>>>> 39b74d9fa9ae63ad3f511f20269c3e2995c985c0
